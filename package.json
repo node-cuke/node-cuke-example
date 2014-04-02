@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-cuke": "0.0.0",
+    "istanbul": "^0.2.7",
+    "q": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node-cuke ./features"
+  }
+}
