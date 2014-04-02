@@ -5,6 +5,6 @@
     "q": "^1.0.1"
   },
   "scripts": {
-    "test": "node-cuke ./features"
+    "test": "istanbul test ./node_modules/node-cuke/bin/node-cuke ./features"
   }
 }
